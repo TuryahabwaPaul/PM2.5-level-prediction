@@ -1,4 +1,4 @@
-# AirQo Climate Hackathon
+# PM2.5 level prediction
 
 This repository contains the code and steps taken to solve a predictive modeling problem using neural networks for the AirQo Climate Hackathon. The main objective of this project was to predict PM2.5 air quality levels from the provided training and testing datasets.
 
